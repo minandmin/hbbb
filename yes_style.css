@@ -20,4 +20,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 20px; /* Optional: adds some space between the two images */
 }
